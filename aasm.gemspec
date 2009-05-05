@@ -15,5 +15,5 @@ EOF
   
   s.author = 'Scott Barron'
   s.email = 'scott@elitists.net'
-  s.homepage = 'http://github.com/rubyist/aasm'
+  s.homepage = 'http://github.com/mirven/aasm'
 end
